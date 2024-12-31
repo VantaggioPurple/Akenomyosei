@@ -1,44 +1,52 @@
+[WARNING: THE TRANSLATION MAY NOT BE 100% ACCURATE. IF IN DOUBT, REFER TO THE ENGLISH SECTION OR CONTACT THE CREATOR VIA EMAIL.]
+
 [LINGUAGE ENG] 
 
-Akenomyosei End User License Agreement
-Copyright © 2024 Akenomyosei. All rights reserved.
+Usage License for Akenomyōsei
 
-This End User License Agreement (EULA) governs your use of the Akenomyosei game (the "Game") and all associated materials, including but not limited to 3D models, textures, sounds, music, and source code.
+Copyright © Akenomyōsei 2024. All rights reserved by the creator.
+
+This document defines the terms and conditions for using the Akenomyōsei game, hereafter referred to as Akenomyōsei, and the materials associated with it (including, but not limited to, 3D models, textures, sounds, music, and source code).
 
 1. License Grant:
-The Creator grants you a limited, non-exclusive, non-transferable license to use the Game solely for personal, non-commercial purposes.
+The Creator grants the user a limited, non-exclusive, and non-transferable license to use the Game exclusively for personal and non-commercial purposes.
 
 2. Restrictions:
 
-Distribution: You may not distribute the Game, in whole or in part, on any platform or service without the prior written consent of the Creator.
-Modifications: You may not modify the Game without the prior written consent of the Creator.
-Commercial Use: You may not use the Game for any commercial purpose, including but not limited to sale, rental, or licensing.
-Derivative Works: You may not create derivative works based on the Game without the prior written consent of the Creator.
+Distribution: The distribution of the Game, in whole or in part, on any platform or service is prohibited without prior written consent from the Creator.
+Modifications: Modifications or the creation of mods for the Game are allowed, provided they comply with the Terms of Service (ToS) of Akenomyōsei.
+Commercial Use: The use of the Game for commercial purposes is prohibited, including, but not limited to, selling, renting, or sublicensing.
+Derivative Content: The creation of derivative content from the Game is prohibited without prior written consent from the Creator.
 3. User-Generated Content:
-You may create and share user-generated content using the Game on social media or other online platforms, provided that such content does not violate the rights of the Creator or any third party and that you provide proper attribution to the Creator.
+Users may create and share content generated using the Game on social media or other online platforms, provided such content does not infringe on the rights of the Creator or third parties and proper attribution is given to the Creator.
 
 4. Violations:
-In the event of a breach of this EULA, the Creator reserves the right to take any legal action necessary to enforce its rights.
+In the event of a violation of this license, the Creator reserves the right to take all necessary legal actions to enforce their rights.
 
 5. Updates:
-The Creator reserves the right to modify the Game and this EULA at any time.
+The Creator reserves the right to make changes to the Game and this license at any time.
 
 6. Governing Law:
-This EULA shall be governed by and construed in accordance with the laws of Italy.
+This license is governed by Italian law.
 
 7. Media:
-Social media content: You may create video clips of the game, provided that they comply with Akenomyosei's TOS, available in the game files or at the following link: [Link].
+
+Social Media Content: Users are permitted to create video clips of the Game, provided they comply with the Akenomyōsei ToS, available as a PDF document included in the game files or at the following link: [Coming Soon].
+8. Assets:
+All assets (materials such as textures, sounds, dialogues, etc.) cannot be distributed for commercial purposes or previewed without the Creator’s consent. In other words, the material may not be distributed or previewed without prior authorization.
 
 Contact the Creator:
 Discord: vantaggioispurple
 Email: vantaggioispurple@gmail.com
 
-Date Created: 09/12/24
-Last Modified: N/A
+Date Created: 09/12/2024
+Last Modified: 31/12/2024
 
 Developer: Dasie Iustin Iftimut aka [Vantaggio]
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ATTENZIONE LA TRADUZIONE POTREBBE NON ESSERE ACCURATA AL 100%, IN CASO DI DUBBI CONSULTARE LA SEZIONE ENG O CONTATTARE IL CREATORE VIA EMAIL]
 
 [LINGUA ITALIANA]
 
@@ -54,7 +62,7 @@ Il Creatore concede all'utente una licenza limitata, non esclusiva e non trasfer
 2. Restrizioni:
 
 Distribuzione: È vietata la distribuzione del Gioco, in tutto o in parte, su qualsiasi piattaforma o servizio senza il previo consenso scritto del Creatore.
-Modifiche: È vietata qualsiasi modifica al Gioco senza il previo consenso scritto del Creatore.
+Modifiche: È consentito modificare o creare mod per il seguente gioco a patto che rispettino i ToS di Akenomyōsei.
 Utilizzo commerciale: È vietato l'utilizzo del Gioco per scopi commerciali, inclusi, a titolo esemplificativo ma non esaustivo, la vendita, la locazione o la concessione in licenza.
 Contenuti derivati: È vietata la creazione di contenuti derivati dal Gioco senza il previo consenso scritto del Creatore.
 3. Contenuti generati dagli utenti:
@@ -72,11 +80,14 @@ La presente licenza è regolata dalla legge Italiana.
 7. Media:
 Contenuti su scoial media: è consentito realizare clip video sul gioco, a patto che rispettino i TOS di Akenomyosei disponibile presso il seguente documento PDF disponibile nei file di gioco o presso il seguente link: In arrivo 
 
+8. Asset:
+Tutti i asset (Materiale es: Texture, Suoni, Dialoghi ecc...) non possono essere distribuiti per scopi commerciali o visualizati in anteprima senza il consenso del creatore ovvero, il materiale non può essere distribuito o visualizato in anteprima. 
+
 Contatta il Creatore:
 Discord: vantaggioispurple
 Email: vantaggioispurple@gmail.com
 
-Data creazione: 09/12/24
-Data ultima modifica: N/A
+Data creazione: 09/12/2024
+Data ultima modifica: 31/12/2024
 
 Creatore: Dasie Iustin Iftimut det [Vantaggio] 
