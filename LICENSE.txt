@@ -4,7 +4,7 @@
 
 Usage License for Akenomyōsei
 
-Copyright © Akenomyōsei 2024. All rights reserved by the creator.
+Copyright © Akenomyōsei 2025. All rights reserved by the creator.
 
 This document defines the terms and conditions for using the Akenomyōsei game, hereafter referred to as Akenomyōsei, and the materials associated with it (including, but not limited to, 3D models, textures, sounds, music, and source code).
 
@@ -40,7 +40,7 @@ Discord: vantaggioispurple
 Email: vantaggioispurple@gmail.com
 
 Date Created: 09/12/2024
-Last Modified: 31/12/2024
+Last Modified: 01/01/2025
 
 Developer: Dasie Iustin Iftimut aka [Vantaggio]
 
@@ -50,11 +50,11 @@ Developer: Dasie Iustin Iftimut aka [Vantaggio]
 
 [LINGUA ITALIANA]
 
-Licenza d'uso per Akenomyosei
+Licenza d'uso per Akenomyōsei
 
-Copyright © Akenomyosei 2024 Tutti i diritti riservati al creatore.
+Copyright © Akenomyōsei 2025 Tutti i diritti riservati al creatore.
 
-Il presente documento definisce i termini e le condizioni d'uso del gioco Akenomyosei. in seguito, il Akenomyosei e dei materiali ad esso associati (inclusi, a titolo esemplificativo ma non esaustivo, modelli 3D, texture, suoni, musica e codice sorgente).
+Il presente documento definisce i termini e le condizioni d'uso del gioco Akenomyōsei. in seguito, il Akenomyōsei e dei materiali ad esso associati (inclusi, a titolo esemplificativo ma non esaustivo, modelli 3D, texture, suoni, musica e codice sorgente).
 
 1. Concessione di licenza:
 Il Creatore concede all'utente una licenza limitata, non esclusiva e non trasferibile per utilizzare il Gioco esclusivamente per scopi personali e non commerciali.
@@ -78,7 +78,7 @@ Il Creatore si riserva il diritto di apportare modifiche al Gioco e alla present
 La presente licenza è regolata dalla legge Italiana.
 
 7. Media:
-Contenuti su scoial media: è consentito realizare clip video sul gioco, a patto che rispettino i TOS di Akenomyosei disponibile presso il seguente documento PDF disponibile nei file di gioco o presso il seguente link: In arrivo 
+Contenuti su scoial media: è consentito realizare clip video sul gioco, a patto che rispettino i TOS di Akenomyōsei disponibile presso il seguente documento PDF disponibile nei file di gioco o presso il seguente link: In arrivo 
 
 8. Asset:
 Tutti i asset (Materiale es: Texture, Suoni, Dialoghi ecc...) non possono essere distribuiti per scopi commerciali o visualizati in anteprima senza il consenso del creatore ovvero, il materiale non può essere distribuito o visualizato in anteprima. 
@@ -88,6 +88,6 @@ Discord: vantaggioispurple
 Email: vantaggioispurple@gmail.com
 
 Data creazione: 09/12/2024
-Data ultima modifica: 31/12/2024
+Data ultima modifica: 01/01/2025
 
 Creatore: Dasie Iustin Iftimut det [Vantaggio] 
