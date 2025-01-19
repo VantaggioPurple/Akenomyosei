@@ -2,7 +2,7 @@
 
 [LINGUAGE ENG] 
 
-Usage License for Akenomyōsei
+Usage License for Akenomyōsei 【明けの明星】
 
 Copyright © Akenomyōsei 2025. All rights reserved by the creator.
 
@@ -40,7 +40,7 @@ Discord: vantaggioispurple
 Email: vantaggioispurple@gmail.com
 
 Date Created: 09/12/2024
-Last Modified: 01/01/2025
+Last Modified: 19/01/2025
 
 Developer: Dasie Iustin Iftimut aka [Vantaggio]
 
@@ -50,7 +50,7 @@ Developer: Dasie Iustin Iftimut aka [Vantaggio]
 
 [LINGUA ITALIANA]
 
-Licenza d'uso per Akenomyōsei
+Licenza d'uso per Akenomyōsei 【明けの明星】
 
 Copyright © Akenomyōsei 2025 Tutti i diritti riservati al creatore.
 
@@ -88,6 +88,6 @@ Discord: vantaggioispurple
 Email: vantaggioispurple@gmail.com
 
 Data creazione: 09/12/2024
-Data ultima modifica: 01/01/2025
+Data ultima modifica: 19/01/2025
 
 Creatore: Dasie Iustin Iftimut det [Vantaggio] 
