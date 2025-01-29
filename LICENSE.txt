@@ -2,11 +2,25 @@
 
 [LINGUAGE ENG] 
 
-Usage License for Akenomyōsei 【明けの明星】
+Usage License for Akenomyōsei / 【明けの明星】
 
-Copyright © Akenomyōsei 2025. All rights reserved by the creator.
+Copyright © 2024-2025 Akenomyōsei / 【明けの明星】. All rights reserved by the creator.
 
 This document defines the terms and conditions for using the Akenomyōsei game, hereafter referred to as Akenomyōsei, and the materials associated with it (including, but not limited to, 3D models, textures, sounds, music, and source code).
+
+0. Regulation Updates and Effective Date:
+
+=> Regulation Updates:
+   Any updates or changes to the game's regulations will be communicated through an official announcement. 
+   Each updated regulation will be accompanied by a notice clearly indicating the changes made.
+
+=> Effective Date: 
+   Regulation updates will take effect 10 days after the publication of the announcement and the updated license. 
+   Users will be responsible for being aware of the new regulations within this period.
+
+=> Identification of Updated Regulations: 
+   Regulations that are coming into effect will be marked with an asterisk (*) next to their title or relevant section, 
+   clearly indicating the modifications compared to the previous version.
 
 1. License Grant:
 The Creator grants the user a limited, non-exclusive, and non-transferable license to use the Game exclusively for personal and non-commercial purposes.
@@ -17,6 +31,7 @@ Distribution: The distribution of the Game, in whole or in part, on any platform
 Modifications: Modifications or the creation of mods for the Game are allowed, provided they comply with the Terms of Service (ToS) of Akenomyōsei.
 Commercial Use: The use of the Game for commercial purposes is prohibited, including, but not limited to, selling, renting, or sublicensing.
 Derivative Content: The creation of derivative content from the Game is prohibited without prior written consent from the Creator.
+
 3. User-Generated Content:
 Users may create and share content generated using the Game on social media or other online platforms, provided such content does not infringe on the rights of the Creator or third parties and proper attribution is given to the Creator.
 
@@ -40,7 +55,7 @@ Discord: vantaggioispurple
 Email: vantaggioispurple@gmail.com
 
 Date Created: 09/12/2024
-Last Modified: 19/01/2025
+Last Modified: 29/01/2025
 
 Developer: Dasie Iustin Iftimut aka [Vantaggio]
 
@@ -50,11 +65,25 @@ Developer: Dasie Iustin Iftimut aka [Vantaggio]
 
 [LINGUA ITALIANA]
 
-Licenza d'uso per Akenomyōsei 【明けの明星】
+Licenza d'uso per Akenomyōsei / 【明けの明星】
 
-Copyright © Akenomyōsei 2025 Tutti i diritti riservati al creatore.
+Copyright © 2024-2025 Akenomyōsei / 【明けの明星】 Tutti i diritti riservati al creatore.
 
 Il presente documento definisce i termini e le condizioni d'uso del gioco Akenomyōsei. in seguito, il Akenomyōsei e dei materiali ad esso associati (inclusi, a titolo esemplificativo ma non esaustivo, modelli 3D, texture, suoni, musica e codice sorgente).
+
+0. Aggiornamento e Entrata in Vigore dei Regolamenti
+
+ => Aggiornamenti ai Regolamenti: 
+    Qualsiasi aggiornamento o modifica ai regolamenti del gioco sarà comunicato tramite un annuncio ufficiale. 
+    Ogni volta che un regolamento viene aggiornato, la nuova versione verrà accompagnata da un avviso che indicherà chiaramente le modifiche apportate.
+
+=> Entrata in Vigore: 
+   Gli aggiornamenti ai regolamenti entreranno in vigore 10 giorni dopo la pubblicazione dell'annuncio e della licenza aggiornata. 
+   Gli utenti saranno responsabili di conoscere i nuovi regolamenti entro tale periodo.
+
+=> Individuazione dei Regolamenti Aggiornati:
+   I regolamenti che entreranno in vigore verranno distinti con un asterisco (*) accanto al loro titolo o alla sezione pertinente, 
+   per indicare chiaramente le modifiche rispetto alla versione precedente.
 
 1. Concessione di licenza:
 Il Creatore concede all'utente una licenza limitata, non esclusiva e non trasferibile per utilizzare il Gioco esclusivamente per scopi personali e non commerciali.
@@ -65,6 +94,7 @@ Distribuzione: È vietata la distribuzione del Gioco, in tutto o in parte, su qu
 Modifiche: È consentito modificare o creare mod per il seguente gioco a patto che rispettino i ToS di Akenomyōsei.
 Utilizzo commerciale: È vietato l'utilizzo del Gioco per scopi commerciali, inclusi, a titolo esemplificativo ma non esaustivo, la vendita, la locazione o la concessione in licenza.
 Contenuti derivati: È vietata la creazione di contenuti derivati dal Gioco senza il previo consenso scritto del Creatore.
+
 3. Contenuti generati dagli utenti:
 L'utente può creare e condividere contenuti generati utilizzando il Gioco sui social media o altre piattaforme online, a condizione che tali contenuti non violino i diritti del Creatore o di terzi e che venga fornita un'adeguata attribuzione al Creatore.
 
@@ -88,6 +118,6 @@ Discord: vantaggioispurple
 Email: vantaggioispurple@gmail.com
 
 Data creazione: 09/12/2024
-Data ultima modifica: 19/01/2025
+Data ultima modifica: 29/01/2025
 
 Creatore: Dasie Iustin Iftimut det [Vantaggio] 
